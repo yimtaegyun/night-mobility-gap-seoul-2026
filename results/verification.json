@@ -1,0 +1,13 @@
+{
+  "source_sha256_checked": 7,
+  "source_rows_checked": 42155,
+  "all_hourly_boarding_totals_match": true,
+  "n_hourly_totals_match": true,
+  "fixed_hub_union_stops": 48,
+  "fixed_hub_union_late": 225811,
+  "walking_from_raw_json_match": true,
+  "walking500_stops": 33,
+  "walking500_late": 179320,
+  "snap_review_stops": 0,
+  "all_checks_passed": true
+}

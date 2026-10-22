@@ -1,0 +1,31 @@
+{
+  "optimization": {
+    "performed": true,
+    "status": 0,
+    "message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+    "solver": "SciPy milp / HiGHS",
+    "relative_gap": 0.0,
+    "upper_bound_boardings": 225811.0,
+    "scope": "Only 334 eligible candidates, fixed 500m spherical radius, 21-23 monthly boardings, <=3 hubs. No operating constraints.",
+    "selected_ids": [
+      "119900100",
+      "122000078",
+      "122000161"
+    ],
+    "selected_names": [
+      "중앙대병원",
+      "일지아트홀.압구정노인복지관",
+      "도곡초등학교"
+    ],
+    "additional_late": 225811,
+    "greedy_fraction": 1.0
+  },
+  "random_benchmark": {
+    "seed": 20261022,
+    "samples": 1000,
+    "median_additional_late": 70954.0,
+    "p05": 32766.100000000002,
+    "p95": 128464.0,
+    "interpretation": "Random candidate triples, not an uncertainty interval or causal significance test."
+  }
+}

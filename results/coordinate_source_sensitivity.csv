@@ -1,0 +1,4 @@
+﻿coordinate_rule,matched_late,outside_late,outside_share
+location_priority_baseline,14010743,2823334,0.2015120825
+route_priority_alternative,14010743,2825803,0.2016883045
+exclude_nodes_with_disagreement_gt100m,14009792,2823201,0.2015162681

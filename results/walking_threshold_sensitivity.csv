@@ -1,0 +1,11 @@
+﻿radius_m,distance_definition,included_stops,included_late,scope
+300,route_m,20,113280,"Only the original 48 newly geometric stops, hub-to-stop direction; not full catchments at alternative radii."
+300,route_plus_connectors_m,16,83861,"Only the original 48 newly geometric stops, hub-to-stop direction; not full catchments at alternative radii."
+450,route_m,31,166930,"Only the original 48 newly geometric stops, hub-to-stop direction; not full catchments at alternative radii."
+450,route_plus_connectors_m,31,166930,"Only the original 48 newly geometric stops, hub-to-stop direction; not full catchments at alternative radii."
+500,route_m,36,192986,"Only the original 48 newly geometric stops, hub-to-stop direction; not full catchments at alternative radii."
+500,route_plus_connectors_m,33,179320,"Only the original 48 newly geometric stops, hub-to-stop direction; not full catchments at alternative radii."
+550,route_m,38,193451,"Only the original 48 newly geometric stops, hub-to-stop direction; not full catchments at alternative radii."
+550,route_plus_connectors_m,38,193451,"Only the original 48 newly geometric stops, hub-to-stop direction; not full catchments at alternative radii."
+800,route_m,47,225810,"Only the original 48 newly geometric stops, hub-to-stop direction; not full catchments at alternative radii."
+800,route_plus_connectors_m,47,225810,"Only the original 48 newly geometric stops, hub-to-stop direction; not full catchments at alternative radii."

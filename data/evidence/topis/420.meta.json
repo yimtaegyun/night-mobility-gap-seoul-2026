@@ -1,0 +1,9 @@
+{
+  "url": "https://topis.seoul.go.kr/map/busMap/selectBusList.do",
+  "method": "POST",
+  "post_data": "routName=420&pageIndex=1&pageSize=100&recordPerPage=100",
+  "retrieved_utc": "2026-10-22T02:06:41.331750+00:00",
+  "http_status": 200,
+  "sha256": "433a2684c682e5d7128e8ecd1155bfea57358172705abc421faafd66bdc1fd1a",
+  "user_agent": "NightMobilityResearch/1.0 (Seoul transit contest; small cached walking audit)"
+}

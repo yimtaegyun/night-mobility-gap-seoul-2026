@@ -1,0 +1,9 @@
+{
+  "url": "https://routing.openstreetmap.de/routed-foot/route/v1/foot/127.0499897686,37.6539743778;127.0405170000,37.6582050000?overview=full&geometries=geojson&steps=false",
+  "method": "GET",
+  "post_data": null,
+  "retrieved_utc": "2026-10-22T02:05:00.982965+00:00",
+  "http_status": 200,
+  "sha256": "d61b535e3ae87fdebd78286b7af42606b9fe8a2ceb0fef0f83818d93d8ab6c38",
+  "user_agent": "NightMobilityResearch/1.0 (Seoul transit contest; small cached walking audit)"
+}

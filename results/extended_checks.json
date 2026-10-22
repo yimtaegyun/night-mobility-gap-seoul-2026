@@ -1,0 +1,16 @@
+{
+  "independent_haversine_max_error_m": 1.33593403006671e-09,
+  "distance_threshold_masks_identical": true,
+  "radius_boundary_450_550_stops": 942,
+  "radius_boundary_450_550_late": 697716,
+  "common_coordinate_nodes": 11034,
+  "coordinate_difference_over_25m_nodes": 54,
+  "coordinate_difference_over_100m_nodes": 9,
+  "max_coordinate_difference_m": 14803.16479303166,
+  "matched_non_seoul_id_prefix_stops": 3,
+  "matched_non_seoul_id_prefix_late": 1524,
+  "n_ids_not_in_snapshot": 13,
+  "n_outside_snapshot_00_03": 253,
+  "observed_vs_unmet": "Zero boardings do not prove zero need or no service. Positive counts do not give departure times/headway.",
+  "scope": "Seoul-operated bus data; spatial matched sample, not an administrative-boundary polygon census."
+}

@@ -1,0 +1,15 @@
+{
+  "pairs_all": 72,
+  "fixed_hub_pairs": 48,
+  "fixed_hub_unique_stops": 48,
+  "geometric_late": 225811,
+  "walking500_valid_stops": 33,
+  "walking500_valid_late": 179320,
+  "walking500_retention_fraction": 0.7941154328177104,
+  "snap_review_stops": 0,
+  "snap_review_late": 0,
+  "direction": "From each hub to stop. Reverse direction, field safety, nighttime access and wheelchair access are unverified.",
+  "metric": "OSRM routed-foot returned route distance plus straight endpoint snap connectors. Own stop = 0m; snap<=25m per endpoint.",
+  "ceiling": "Fixed-hub subset only. Baseline remains spherical; this is NOT a citywide walking coverage rate. No passenger forecast.",
+  "osm_data_version": "Not returned by server; retrieval date is preserved, underlying graph date unverified."
+}

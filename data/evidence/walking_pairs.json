@@ -1,0 +1,1226 @@
+[
+  {
+    "pair_id": "122000161_122000119",
+    "from_id": "122000161",
+    "from_name": "도곡초등학교",
+    "from_ARS": "23264",
+    "from_lat": 37.4976896078,
+    "from_lon": 127.0566485239,
+    "to_id": "122000119",
+    "to_name": "한티역3번출구.서울강남고용노동지청",
+    "to_ARS": "23222",
+    "to_lat": 37.4964463596,
+    "to_lon": 127.0541425059,
+    "straight_m": 260.7458897441198,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "122000161_122000120",
+    "from_id": "122000161",
+    "from_name": "도곡초등학교",
+    "from_ARS": "23264",
+    "from_lat": 37.4976896078,
+    "from_lon": 127.0566485239,
+    "to_id": "122000120",
+    "to_name": "삼성아파트입구",
+    "to_ARS": "23223",
+    "to_lat": 37.4981982,
+    "to_lon": 127.05956007,
+    "straight_m": 263.006988933175,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "122000161_122000144",
+    "from_id": "122000161",
+    "from_name": "도곡초등학교",
+    "from_ARS": "23264",
+    "from_lat": 37.4976896078,
+    "from_lon": 127.0566485239,
+    "to_id": "122000144",
+    "to_name": "대치현대아파트",
+    "to_ARS": "23247",
+    "to_lat": 37.5008238066,
+    "to_lon": 127.0600625549,
+    "straight_m": 460.61478039369865,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "122000161_122000149",
+    "from_id": "122000161",
+    "from_name": "도곡초등학교",
+    "from_ARS": "23264",
+    "from_lat": 37.4976896078,
+    "from_lon": 127.0566485239,
+    "to_id": "122000149",
+    "to_name": "한티역",
+    "to_ARS": "23252",
+    "to_lat": 37.4981160997,
+    "to_lon": 127.0521475206,
+    "straight_m": 399.8980517256379,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "122000161_122000159",
+    "from_id": "122000161",
+    "from_name": "도곡초등학교",
+    "from_ARS": "23264",
+    "from_lat": 37.4976896078,
+    "from_lon": 127.0566485239,
+    "to_id": "122000159",
+    "to_name": "대치동현대아파트",
+    "to_ARS": "23262",
+    "to_lat": 37.501646012,
+    "to_lon": 127.0591748622,
+    "straight_m": 493.1637065528995,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "122000161_122000160",
+    "from_id": "122000161",
+    "from_name": "도곡초등학교",
+    "from_ARS": "23264",
+    "from_lat": 37.4976896078,
+    "from_lon": 127.0566485239,
+    "to_id": "122000160",
+    "to_name": "은마아파트입구사거리",
+    "to_ARS": "23263",
+    "to_lat": 37.4987273789,
+    "to_lon": 127.0600675492,
+    "straight_m": 322.94374355526395,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "122000161_122000161",
+    "from_id": "122000161",
+    "from_name": "도곡초등학교",
+    "from_ARS": "23264",
+    "from_lat": 37.4976896078,
+    "from_lon": 127.0566485239,
+    "to_id": "122000161",
+    "to_name": "도곡초등학교",
+    "to_ARS": "23264",
+    "to_lat": 37.4976896078,
+    "to_lon": 127.0566485239,
+    "straight_m": 0.0,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "122000161_122000162",
+    "from_id": "122000161",
+    "from_name": "도곡초등학교",
+    "from_ARS": "23264",
+    "from_lat": 37.4976896078,
+    "from_lon": 127.0566485239,
+    "to_id": "122000162",
+    "to_name": "한티역2번출구.서울강남고용노동지청",
+    "to_ARS": "23265",
+    "to_lat": 37.4967735576,
+    "to_lon": 127.0539289896,
+    "straight_m": 260.6456830478728,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "122000161_122000205",
+    "from_id": "122000161",
+    "from_name": "도곡초등학교",
+    "from_ARS": "23264",
+    "from_lat": 37.4976896078,
+    "from_lon": 127.0566485239,
+    "to_id": "122000205",
+    "to_name": "한티역",
+    "to_ARS": "23309",
+    "to_lat": 37.4972023372,
+    "to_lon": 127.0522475418,
+    "straight_m": 392.01707196251846,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119000030",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119000030",
+    "to_name": "흑석동효사정앞",
+    "to_ARS": "20123",
+    "to_lat": 37.5115545148,
+    "to_lon": 126.9607461983,
+    "straight_m": 449.7859265177117,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119000031",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119000031",
+    "to_name": "흑석동효사정앞",
+    "to_ARS": "20124",
+    "to_lat": 37.5115728985,
+    "to_lon": 126.9612375315,
+    "straight_m": 448.54853126545635,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119000032",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119000032",
+    "to_name": "흑석역.흑석동빗물펌프장",
+    "to_ARS": "20125",
+    "to_lat": 37.508304935,
+    "to_lon": 126.9632135267,
+    "straight_m": 182.98167448699613,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119000033",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119000033",
+    "to_name": "흑석역.명수대현대아파트",
+    "to_ARS": "20126",
+    "to_lat": 37.5074984059,
+    "to_lon": 126.9650447528,
+    "straight_m": 323.60497574659365,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119000034",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119000034",
+    "to_name": "흑석역.명수대현대아파트",
+    "to_ARS": "20127",
+    "to_lat": 37.5075850724,
+    "to_lon": 126.9655921789,
+    "straight_m": 371.89130247234317,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119000035",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119000035",
+    "to_name": "흑석동명수대현대아파트",
+    "to_ARS": "20128",
+    "to_lat": 37.5073485306,
+    "to_lon": 126.96627337,
+    "straight_m": 432.4727361067654,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119000101",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119000101",
+    "to_name": "중앙대학교",
+    "to_ARS": "20194",
+    "to_lat": 37.5081669276,
+    "to_lon": 126.9613219646,
+    "straight_m": 69.81965427554528,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119000102",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119000102",
+    "to_name": "중앙대학교",
+    "to_ARS": "20195",
+    "to_lat": 37.508509243,
+    "to_lon": 126.9615071968,
+    "straight_m": 108.33294565690747,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119000103",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119000103",
+    "to_name": "중앙대학교",
+    "to_ARS": "20196",
+    "to_lat": 37.5083452201,
+    "to_lon": 126.9614382814,
+    "straight_m": 89.6449779533476,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119000111",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119000111",
+    "to_name": "중앙대정문",
+    "to_ARS": "20204",
+    "to_lat": 37.506809885,
+    "to_lon": 126.9582944153,
+    "straight_m": 283.744143026652,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119000112",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119000112",
+    "to_name": "중앙대중문",
+    "to_ARS": "20205",
+    "to_lat": 37.5066428313,
+    "to_lon": 126.9572653015,
+    "straight_m": 376.1284588572773,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119000113",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119000113",
+    "to_name": "중앙대정문",
+    "to_ARS": "20206",
+    "to_lat": 37.5072313914,
+    "to_lon": 126.9591141596,
+    "straight_m": 202.49436824138192,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119000327",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119000327",
+    "to_name": "흑석역.흑석동빗물펌프장",
+    "to_ARS": "20606",
+    "to_lat": 37.508223,
+    "to_lon": 126.963333,
+    "straight_m": 188.5282390326776,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119000328",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119000328",
+    "to_name": "흑석한강센트레빌1차",
+    "to_ARS": "20607",
+    "to_lat": 37.506117,
+    "to_lon": 126.96642,
+    "straight_m": 472.2034775054398,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119000329",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119000329",
+    "to_name": "흑석고등학교.큰별어린이집",
+    "to_ARS": "20608",
+    "to_lat": 37.504295,
+    "to_lon": 126.965236,
+    "straight_m": 496.12813078267544,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119900014",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119900014",
+    "to_name": "중앙대중문",
+    "to_ARS": "20587",
+    "to_lat": 37.5067385205,
+    "to_lon": 126.95728804,
+    "straight_m": 371.4980475847691,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119900018",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119900018",
+    "to_name": "중앙대병원후문.흑석시장",
+    "to_ARS": "20582",
+    "to_lat": 37.506984,
+    "to_lon": 126.961766,
+    "straight_m": 70.78053735805616,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119900028",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119900028",
+    "to_name": "중대부속초등학교",
+    "to_ARS": "20571",
+    "to_lat": 37.5053724551,
+    "to_lon": 126.9610502124,
+    "straight_m": 242.78957662483717,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119900033",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119900033",
+    "to_name": "중앙대병원",
+    "to_ARS": "20565",
+    "to_lat": 37.507689887,
+    "to_lon": 126.9607327929,
+    "straight_m": 59.158107148470464,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119900040",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119900040",
+    "to_name": "은로초등학교",
+    "to_ARS": "20557",
+    "to_lat": 37.5032630745,
+    "to_lon": 126.9609201815,
+    "straight_m": 477.3305809595231,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119900092",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119900092",
+    "to_name": "은로초등학교",
+    "to_ARS": "20910",
+    "to_lat": 37.5032573835,
+    "to_lon": 126.9607814881,
+    "straight_m": 479.14653361650915,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119900094",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119900094",
+    "to_name": "중앙대부속초등학교.롯데캐슬에듀포레",
+    "to_ARS": "20908",
+    "to_lat": 37.5049212013,
+    "to_lon": 126.9607856633,
+    "straight_m": 295.8809323461521,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119900097",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119900097",
+    "to_name": "중앙대병원후문.흑석시장",
+    "to_ARS": "20904",
+    "to_lat": 37.5064627639,
+    "to_lon": 126.9612695829,
+    "straight_m": 120.21118034102152,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119900100",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119900100",
+    "to_name": "중앙대병원",
+    "to_ARS": "20901",
+    "to_lat": 37.5075405164,
+    "to_lon": 126.9613764833,
+    "straight_m": 0.0,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119900101",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119900101",
+    "to_name": "중앙대정문",
+    "to_ARS": "20898",
+    "to_lat": 37.5067437707,
+    "to_lon": 126.958223341,
+    "straight_m": 291.903263594932,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119900255",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119900255",
+    "to_name": "중앙대중문",
+    "to_ARS": "20896",
+    "to_lat": 37.5064893501,
+    "to_lon": 126.9573559193,
+    "straight_m": 373.4135889171272,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119900285",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119900285",
+    "to_name": "중앙대병원",
+    "to_ARS": "20984",
+    "to_lat": 37.5074356533,
+    "to_lon": 126.9603641787,
+    "straight_m": 90.05160761601682,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119900286",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119900286",
+    "to_name": "흑석역",
+    "to_ARS": "20983",
+    "to_lat": 37.5092011475,
+    "to_lon": 126.9623026038,
+    "straight_m": 201.91687526334138,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "119900100_119900292",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119900292",
+    "to_name": "흑석동주민센터",
+    "to_ARS": "20970",
+    "to_lat": 37.5058669213,
+    "to_lon": 126.9664605238,
+    "straight_m": 485.53738495966536,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "122000058_122000026",
+    "from_id": "122000058",
+    "from_name": "일지아트홀",
+    "from_ARS": "23160",
+    "from_lat": 37.524911806,
+    "from_lon": 127.0395011945,
+    "to_id": "122000026",
+    "to_name": "영동119안전센터",
+    "to_ARS": "23126",
+    "to_lat": 37.5225557208,
+    "to_lon": 127.0381006504,
+    "straight_m": 289.6403312398116,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "122000058_122000056",
+    "from_id": "122000058",
+    "from_name": "일지아트홀",
+    "from_ARS": "23160",
+    "from_lat": 37.524911806,
+    "from_lon": 127.0395011945,
+    "to_id": "122000056",
+    "to_name": "한양아파트.압구정로데오역",
+    "to_ARS": "23158",
+    "to_lat": 37.5282700029,
+    "to_lon": 127.0395789565,
+    "straight_m": 373.4779347179778,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "122000058_122000057",
+    "from_id": "122000058",
+    "from_name": "일지아트홀",
+    "from_ARS": "23160",
+    "from_lat": 37.524911806,
+    "from_lon": 127.0395011945,
+    "to_id": "122000057",
+    "to_name": "한양아파트.압구정로데오역",
+    "to_ARS": "23159",
+    "to_lat": 37.527929495,
+    "to_lon": 127.0392574486,
+    "straight_m": 336.2399301607911,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "122000058_122000058",
+    "from_id": "122000058",
+    "from_name": "일지아트홀",
+    "from_ARS": "23160",
+    "from_lat": 37.524911806,
+    "from_lon": 127.0395011945,
+    "to_id": "122000058",
+    "to_name": "일지아트홀",
+    "to_ARS": "23160",
+    "to_lat": 37.524911806,
+    "to_lon": 127.0395011945,
+    "straight_m": 0.0,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "122000058_122000059",
+    "from_id": "122000058",
+    "from_name": "일지아트홀",
+    "from_ARS": "23160",
+    "from_lat": 37.524911806,
+    "from_lon": 127.0395011945,
+    "to_id": "122000059",
+    "to_name": "씨네시티앞",
+    "to_ARS": "23161",
+    "to_lat": 37.5228970378,
+    "to_lon": 127.0375996828,
+    "straight_m": 279.8411271252576,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "122000058_122000077",
+    "from_id": "122000058",
+    "from_name": "일지아트홀",
+    "from_ARS": "23160",
+    "from_lat": 37.524911806,
+    "from_lon": 127.0395011945,
+    "to_id": "122000077",
+    "to_name": "농협앞",
+    "to_ARS": "23180",
+    "to_lat": 37.5240778005,
+    "to_lon": 127.0443867144,
+    "straight_m": 440.71207327459933,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "122000058_122000078",
+    "from_id": "122000058",
+    "from_name": "일지아트홀",
+    "from_ARS": "23160",
+    "from_lat": 37.524911806,
+    "from_lon": 127.0395011945,
+    "to_id": "122000078",
+    "to_name": "일지아트홀.압구정노인복지관",
+    "to_ARS": "23181",
+    "to_lat": 37.5243159636,
+    "to_lon": 127.0396345679,
+    "straight_m": 67.2906664986486,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "122000058_122000082",
+    "from_id": "122000058",
+    "from_name": "일지아트홀",
+    "from_ARS": "23160",
+    "from_lat": 37.524911806,
+    "from_lon": 127.0395011945,
+    "to_id": "122000082",
+    "to_name": "차병원차움",
+    "to_ARS": "23185",
+    "to_lat": 37.5236666735,
+    "to_lon": 127.044171112,
+    "straight_m": 434.482140744339,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "122000058_122000325",
+    "from_id": "122000058",
+    "from_name": "일지아트홀",
+    "from_ARS": "23160",
+    "from_lat": 37.524911806,
+    "from_lon": 127.0395011945,
+    "to_id": "122000325",
+    "to_name": "영동고교앞",
+    "to_ARS": "23432",
+    "to_lat": 37.5215035461,
+    "to_lon": 127.0398932882,
+    "straight_m": 380.55595069964596,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "122000058_122000384",
+    "from_id": "122000058",
+    "from_name": "일지아트홀",
+    "from_ARS": "23160",
+    "from_lat": 37.524911806,
+    "from_lon": 127.0395011945,
+    "to_id": "122000384",
+    "to_name": "영동고등학교현대아파트",
+    "to_ARS": "23507",
+    "to_lat": 37.5213549869,
+    "to_lon": 127.0395300499,
+    "straight_m": 395.5089718765896,
+    "purposes": [
+      "fixed_hub_catchment"
+    ]
+  },
+  {
+    "pair_id": "122000161_122000124",
+    "from_id": "122000161",
+    "from_name": "도곡초등학교",
+    "from_ARS": "23264",
+    "from_lat": 37.4976896078,
+    "from_lon": 127.0566485239,
+    "to_id": "122000124",
+    "to_name": "래미안대치팰리스",
+    "to_ARS": "23227",
+    "to_lat": 37.4925595861,
+    "to_lon": 127.0585796232,
+    "straight_m": 595.3309018471602,
+    "purposes": [
+      "n_connection_sample"
+    ]
+  },
+  {
+    "pair_id": "122000161_122000123",
+    "from_id": "122000161",
+    "from_name": "도곡초등학교",
+    "from_ARS": "23264",
+    "from_lat": 37.4976896078,
+    "from_lon": 127.0566485239,
+    "to_id": "122000123",
+    "to_name": "대치역1번출구",
+    "to_ARS": "23226",
+    "to_lat": 37.4938592964,
+    "to_lon": 127.0614984174,
+    "straight_m": 603.7144982737005,
+    "purposes": [
+      "n_connection_sample"
+    ]
+  },
+  {
+    "pair_id": "122000161_122000126",
+    "from_id": "122000161",
+    "from_name": "도곡초등학교",
+    "from_ARS": "23264",
+    "from_lat": 37.4976896078,
+    "from_lon": 127.0566485239,
+    "to_id": "122000126",
+    "to_name": "대치동우성아파트",
+    "to_ARS": "23229",
+    "to_lat": 37.4925770923,
+    "to_lon": 127.0596110202,
+    "straight_m": 625.688251011219,
+    "purposes": [
+      "n_connection_sample"
+    ]
+  },
+  {
+    "pair_id": "119900100_119000014",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "119000014",
+    "to_name": "노들역",
+    "to_ARS": "20014",
+    "to_lat": 37.512734203,
+    "to_lon": 126.9509621786,
+    "straight_m": 1085.0507984177614,
+    "purposes": [
+      "n_connection_sample"
+    ]
+  },
+  {
+    "pair_id": "119900100_102000248",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "102000248",
+    "to_name": "노들섬",
+    "to_ARS": "03341",
+    "to_lat": 37.5173638437,
+    "to_lon": 126.959037665,
+    "straight_m": 1111.614528941935,
+    "purposes": [
+      "n_connection_sample"
+    ]
+  },
+  {
+    "pair_id": "119900100_102000247",
+    "from_id": "119900100",
+    "from_name": "중앙대병원",
+    "from_ARS": "20901",
+    "from_lat": 37.5075405164,
+    "from_lon": 126.9613764833,
+    "to_id": "102000247",
+    "to_name": "노들섬",
+    "to_ARS": "03340",
+    "to_lat": 37.5175161768,
+    "to_lon": 126.9586051825,
+    "straight_m": 1135.8571260587205,
+    "purposes": [
+      "n_connection_sample"
+    ]
+  },
+  {
+    "pair_id": "122000058_122000067",
+    "from_id": "122000058",
+    "from_name": "일지아트홀",
+    "from_ARS": "23160",
+    "from_lat": 37.524911806,
+    "from_lon": 127.0395011945,
+    "to_id": "122000067",
+    "to_name": "영동대교남단",
+    "to_ARS": "23169",
+    "to_lat": 37.522801,
+    "to_lon": 127.05519,
+    "straight_m": 1403.3439727532657,
+    "purposes": [
+      "n_connection_sample"
+    ]
+  },
+  {
+    "pair_id": "122000058_122000066",
+    "from_id": "122000058",
+    "from_name": "일지아트홀",
+    "from_ARS": "23160",
+    "from_lat": 37.524911806,
+    "from_lon": 127.0395011945,
+    "to_id": "122000066",
+    "to_name": "영동대교남단.청담자이아파트",
+    "to_ARS": "23168",
+    "to_lat": 37.522598,
+    "to_lon": 127.056049,
+    "straight_m": 1481.8393479978324,
+    "purposes": [
+      "n_connection_sample"
+    ]
+  },
+  {
+    "pair_id": "122000058_122000068",
+    "from_id": "122000058",
+    "from_name": "일지아트홀",
+    "from_ARS": "23160",
+    "from_lat": 37.524911806,
+    "from_lon": 127.0395011945,
+    "to_id": "122000068",
+    "to_name": "청담역.경기고교",
+    "to_ARS": "23170",
+    "to_lat": 37.52098119,
+    "to_lon": 127.0561675414,
+    "straight_m": 1533.4101794226476,
+    "purposes": [
+      "n_connection_sample"
+    ]
+  },
+  {
+    "pair_id": "118000070_118000067",
+    "from_id": "118000070",
+    "from_name": "여의도역6번출구",
+    "from_ARS": "19155",
+    "from_lat": 37.5206144242,
+    "from_lon": 126.9249200821,
+    "to_id": "118000067",
+    "to_name": "여의도공원1번출입구",
+    "to_ARS": "19152",
+    "to_lat": 37.523605,
+    "to_lon": 126.920262,
+    "straight_m": 528.5242921364505,
+    "purposes": [
+      "n_connection_sample"
+    ]
+  },
+  {
+    "pair_id": "118000070_118000007",
+    "from_id": "118000070",
+    "from_name": "여의도역6번출구",
+    "from_ARS": "19155",
+    "from_lat": 37.5206144242,
+    "from_lon": 126.9249200821,
+    "to_id": "118000007",
+    "to_name": "여의도환승센터",
+    "to_ARS": "19007",
+    "to_lat": 37.5255225645,
+    "to_lon": 126.9242437485,
+    "straight_m": 549.0106876791161,
+    "purposes": [
+      "n_connection_sample"
+    ]
+  },
+  {
+    "pair_id": "118000070_118000076",
+    "from_id": "118000070",
+    "from_name": "여의도역6번출구",
+    "from_ARS": "19155",
+    "from_lat": 37.5206144242,
+    "from_lon": 126.9249200821,
+    "to_id": "118000076",
+    "to_name": "한국경제인협회",
+    "to_ARS": "19161",
+    "to_lat": 37.5218906273,
+    "to_lon": 126.9188836862,
+    "straight_m": 550.9501283467862,
+    "purposes": [
+      "n_connection_sample"
+    ]
+  },
+  {
+    "pair_id": "120000123_120000012",
+    "from_id": "120000123",
+    "from_name": "신대방역",
+    "from_ARS": "21225",
+    "from_lat": 37.4866700184,
+    "from_lon": 126.9126962022,
+    "to_id": "120000012",
+    "to_name": "난곡입구",
+    "to_ARS": "21111",
+    "to_lat": 37.4822370031,
+    "to_lon": 126.915722964,
+    "straight_m": 560.6286441786021,
+    "purposes": [
+      "n_connection_sample"
+    ]
+  },
+  {
+    "pair_id": "120000123_120000013",
+    "from_id": "120000123",
+    "from_name": "신대방역",
+    "from_ARS": "21225",
+    "from_lat": 37.4866700184,
+    "from_lon": 126.9126962022,
+    "to_id": "120000013",
+    "to_name": "관악구보훈회관.신림푸르지오",
+    "to_ARS": "21112",
+    "to_lat": 37.481361666,
+    "to_lon": 126.9112396639,
+    "straight_m": 604.091991589998,
+    "purposes": [
+      "n_connection_sample"
+    ]
+  },
+  {
+    "pair_id": "120000123_120000016",
+    "from_id": "120000123",
+    "from_name": "신대방역",
+    "from_ARS": "21225",
+    "from_lat": 37.4866700184,
+    "from_lon": 126.9126962022,
+    "to_id": "120000016",
+    "to_name": "난곡입구",
+    "to_ARS": "21115",
+    "to_lat": 37.4819399662,
+    "to_lon": 126.9161388018,
+    "straight_m": 607.3732535128979,
+    "purposes": [
+      "n_connection_sample"
+    ]
+  },
+  {
+    "pair_id": "100000021_100000031",
+    "from_id": "100000021",
+    "from_name": "경복궁역3번출구",
+    "from_ARS": "01116",
+    "from_lat": 37.5776713863,
+    "from_lon": 126.9722828893,
+    "to_id": "100000031",
+    "to_name": "세종문화회관",
+    "to_ARS": "01126",
+    "to_lat": 37.5736489318,
+    "to_lon": 126.9769975778,
+    "straight_m": 610.4850256263193,
+    "purposes": [
+      "n_connection_sample"
+    ]
+  },
+  {
+    "pair_id": "100000021_100000022",
+    "from_id": "100000021",
+    "from_name": "경복궁역3번출구",
+    "from_ARS": "01116",
+    "from_lat": 37.5776713863,
+    "from_lon": 126.9722828893,
+    "to_id": "100000022",
+    "to_name": "경복궁",
+    "to_ARS": "01117",
+    "to_lat": 37.5755767894,
+    "to_lon": 126.9787471496,
+    "straight_m": 615.445035464308,
+    "purposes": [
+      "n_connection_sample"
+    ]
+  },
+  {
+    "pair_id": "100000021_100000023",
+    "from_id": "100000021",
+    "from_name": "경복궁역3번출구",
+    "from_ARS": "01116",
+    "from_lat": 37.5776713863,
+    "from_lon": 126.9722828893,
+    "to_id": "100000023",
+    "to_name": "광화문역2번출구.KT광화문지사",
+    "to_ARS": "01118",
+    "to_lat": 37.5723209262,
+    "to_lon": 126.9774162769,
+    "straight_m": 747.4103301319169,
+    "purposes": [
+      "n_connection_sample"
+    ]
+  },
+  {
+    "pair_id": "109000179_109000012",
+    "from_id": "109000179",
+    "from_name": "창동역1번출구(도봉방면)",
+    "from_ARS": "10265",
+    "from_lat": 37.6539743778,
+    "from_lon": 127.0499897686,
+    "to_id": "109000012",
+    "to_name": "도봉보건소.북한산아이파크아파트",
+    "to_ARS": "10012",
+    "to_lat": 37.658205,
+    "to_lon": 127.040517,
+    "straight_m": 957.4463715035907,
+    "purposes": [
+      "n_connection_sample"
+    ]
+  },
+  {
+    "pair_id": "109000179_110000085",
+    "from_id": "109000179",
+    "from_name": "창동역1번출구(도봉방면)",
+    "from_ARS": "10265",
+    "from_lat": 37.6539743778,
+    "from_lon": 127.0499897686,
+    "to_id": "110000085",
+    "to_name": "도봉면허시험장",
+    "to_ARS": "11185",
+    "to_lat": 37.6574468479,
+    "to_lon": 127.0599658724,
+    "straight_m": 959.3571557069043,
+    "purposes": [
+      "n_connection_sample"
+    ]
+  },
+  {
+    "pair_id": "109000179_109000011",
+    "from_id": "109000179",
+    "from_name": "창동역1번출구(도봉방면)",
+    "from_ARS": "10265",
+    "from_lat": 37.6539743778,
+    "from_lon": 127.0499897686,
+    "to_id": "109000011",
+    "to_name": "도봉보건소",
+    "to_ARS": "10011",
+    "to_lat": 37.6589364195,
+    "to_lon": 127.0407623758,
+    "straight_m": 981.9731227570004,
+    "purposes": [
+      "n_connection_sample"
+    ]
+  },
+  {
+    "pair_id": "110000291_110000108",
+    "from_id": "110000291",
+    "from_name": "상계역3번출구",
+    "from_ARS": "11392",
+    "from_lat": 37.6593,
+    "from_lon": 127.073033,
+    "to_id": "110000108",
+    "to_name": "상계초등학교",
+    "to_ARS": "11208",
+    "to_lat": 37.6576160971,
+    "to_lon": 127.0659938755,
+    "straight_m": 647.3220558650025,
+    "purposes": [
+      "n_connection_sample"
+    ]
+  },
+  {
+    "pair_id": "110000291_110000093",
+    "from_id": "110000291",
+    "from_name": "상계역3번출구",
+    "from_ARS": "11392",
+    "from_lat": 37.6593,
+    "from_lon": 127.073033,
+    "to_id": "110000093",
+    "to_name": "온곡중학교.노원중앙도서관",
+    "to_ARS": "11193",
+    "to_lat": 37.6592927621,
+    "to_lon": 127.064476727,
+    "straight_m": 753.195872846606,
+    "purposes": [
+      "n_connection_sample"
+    ]
+  },
+  {
+    "pair_id": "110000291_110000088",
+    "from_id": "110000291",
+    "from_name": "상계역3번출구",
+    "from_ARS": "11392",
+    "from_lat": 37.6593,
+    "from_lon": 127.073033,
+    "to_id": "110000088",
+    "to_name": "상계주공7단지.광림교회앞",
+    "to_ARS": "11188",
+    "to_lat": 37.6605619018,
+    "to_lon": 127.0626050014,
+    "straight_m": 928.6151479363124,
+    "purposes": [
+      "n_connection_sample"
+    ]
+  }
+]

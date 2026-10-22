@@ -1,0 +1,10 @@
+﻿assumed_won_per_vehicle_night,assumed_vehicles,assumed_nights,assumed_boardings_per_night,scenario_total_cost_won,gross_cost_per_boarding_won,is_observed,exclusions
+300000,2,12,50,7200000,12000.0000000000,False,"No fare revenue, survey cost, stop works, standby vehicles or cost escalation. Contract estimate required."
+300000,2,12,100,7200000,6000.0000000000,False,"No fare revenue, survey cost, stop works, standby vehicles or cost escalation. Contract estimate required."
+300000,2,12,200,7200000,3000.0000000000,False,"No fare revenue, survey cost, stop works, standby vehicles or cost escalation. Contract estimate required."
+500000,2,12,50,12000000,20000.0000000000,False,"No fare revenue, survey cost, stop works, standby vehicles or cost escalation. Contract estimate required."
+500000,2,12,100,12000000,10000.0000000000,False,"No fare revenue, survey cost, stop works, standby vehicles or cost escalation. Contract estimate required."
+500000,2,12,200,12000000,5000.0000000000,False,"No fare revenue, survey cost, stop works, standby vehicles or cost escalation. Contract estimate required."
+800000,2,12,50,19200000,32000.0000000000,False,"No fare revenue, survey cost, stop works, standby vehicles or cost escalation. Contract estimate required."
+800000,2,12,100,19200000,16000.0000000000,False,"No fare revenue, survey cost, stop works, standby vehicles or cost escalation. Contract estimate required."
+800000,2,12,200,19200000,8000.0000000000,False,"No fare revenue, survey cost, stop works, standby vehicles or cost escalation. Contract estimate required."
