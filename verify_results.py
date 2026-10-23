@@ -21,7 +21,7 @@ def distance(a,b):
 
 
 def main(out):
-    expected=json.loads((ROOT/'assets/expected_input_sha256.json').read_text())
+    expected=json.loads((ROOT/'assets/expected_input_sha256.json').read_text(encoding='utf-8'))
     for name,sha in expected.items():assert hashlib.sha256((ROOT/'data/raw'/name).read_bytes()).hexdigest()==sha,name
     raw=rows(next((ROOT/'data/raw').glob('*.csv')),'cp949')
     assert len(raw)==42155
@@ -33,7 +33,7 @@ def main(out):
         n_total=sum(int(r[column]) for r in road if r['교통수단타입명']=='서울심야버스')
         assert all_total==int(observed[hour]['road_boardings'])
         assert n_total==int(observed[hour]['n_boardings'])
-    s=rows(out/'stops.csv');m=json.loads((out/'metrics.json').read_text())
+    s=rows(out/'stops.csv');m=json.loads((out/'metrics.json').read_text(encoding='utf-8'))
     matched=[r for r in s if r['coordinate_matched']=='True']
     assert len(matched)==m['matched_stops']
     weights=sum(int(r['late']) for r in matched)
@@ -50,11 +50,11 @@ def main(out):
     assert actual_ids==covered
     # Recompute the fixed-hub walking scenario directly from cached API bytes,
     # independently of audit_evidence.py's DataFrame operations.
-    pairs=json.loads((ROOT/'data/evidence/walking_pairs.json').read_text())
+    pairs=json.loads((ROOT/'data/evidence/walking_pairs.json').read_text(encoding='utf-8'))
     eligible=set();snap_review=set()
     for p in pairs:
         path=ROOT/'data/evidence/walking'/f"{p['pair_id']}.json"
-        body=path.read_bytes();j=json.loads(body);meta=json.loads(path.with_suffix('.meta.json').read_text())
+        body=path.read_bytes();j=json.loads(body);meta=json.loads(path.with_suffix('.meta.json').read_text(encoding='utf-8'))
         assert hashlib.sha256(body).hexdigest()==meta['sha256']
         if 'fixed_hub_catchment' not in p['purposes']:continue
         own=p['from_id']==p['to_id'];offsets=[x['distance'] for x in j['waypoints']]
@@ -62,7 +62,7 @@ def main(out):
         walk=0 if own else j['routes'][0]['distance']+sum(offsets)
         if acceptable and walk<=500:eligible.add(p['to_id'])
         if not acceptable:snap_review.add(p['to_id'])
-    w=json.loads((out/'walking_validation.json').read_text())
+    w=json.loads((out/'walking_validation.json').read_text(encoding='utf-8'))
     assert len(eligible)==w['walking500_valid_stops']
     assert sum(int(r['late']) for r in outside if r['NODE_ID'] in eligible)==w['walking500_valid_late']
     report={'source_sha256_checked':len(expected),'source_rows_checked':len(raw),

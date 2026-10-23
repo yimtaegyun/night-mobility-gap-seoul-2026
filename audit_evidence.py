@@ -10,12 +10,12 @@ from analysis import ROOT, CSV_NAME, read_xlsx, dump_csv
 
 
 def main(out, evidence):
-    pairs=json.loads((evidence/'walking_pairs.json').read_text())
+    pairs=json.loads((evidence/'walking_pairs.json').read_text(encoding='utf-8'))
     records=[]
     for p in pairs:
         path=evidence/'walking'/f"{p['pair_id']}.json"
         body=path.read_bytes();j=json.loads(body)
-        meta=json.loads(path.with_suffix('.meta.json').read_text())
+        meta=json.loads(path.with_suffix('.meta.json').read_text(encoding='utf-8'))
         assert hashlib.sha256(body).hexdigest()==meta['sha256']
         assert j['code']=='Ok' and len(j['waypoints'])==2
         r=j['routes'][0];a,b=[float(w['distance']) for w in j['waypoints']]
@@ -74,12 +74,12 @@ def main(out, evidence):
     # times at the hub or transfer stop; September counts are a separate source.
     routes=read_xlsx(ROOT/'data/raw/서울시버스노선별정류소정보(20260902).xlsx')
     relevant=set(routes.loc[routes.NODE_ID.isin(hubs.NODE_ID),'ROUTE_ID'])
-    n_names=set(json.loads((out/'metrics.json').read_text())['n_routes'])
+    n_names=set(json.loads((out/'metrics.json').read_text(encoding='utf-8'))['n_routes'])
     relevant|=set(routes.loc[routes['노선명'].isin(n_names),'ROUTE_ID'])
     facts={}
     for p in sorted((evidence/'topis').glob('*.json')):
         if '.meta.' in p.name: continue
-        body=p.read_bytes();meta=json.loads(p.with_suffix('.meta.json').read_text())
+        body=p.read_bytes();meta=json.loads(p.with_suffix('.meta.json').read_text(encoding='utf-8'))
         assert hashlib.sha256(body).hexdigest()==meta['sha256']
         for row in json.loads(body).get('rows',[]):
             if str(row['routId']) not in relevant: continue

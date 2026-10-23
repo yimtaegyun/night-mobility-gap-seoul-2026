@@ -29,7 +29,7 @@ def make_figures(results: Path, output: Path):
         plt.close(fig)
 
     hourly = pd.read_csv(results / 'hourly.csv').set_index('hour')
-    metrics = json.loads((results / 'metrics.json').read_text())
+    metrics = json.loads((results / 'metrics.json').read_text(encoding='utf-8'))
     order = [18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4]
     a = hourly.loc[order]
     fig, axes = plt.subplots(1, 2, figsize=(10.5, 3.0), gridspec_kw={'width_ratios': [2.4, 1]})

@@ -44,7 +44,7 @@ def make_figures(results,output):
         ax.scatter(sx,sy,c='#CCD6DC',s=10,zorder=1)
         ax.scatter(nx,ny,c=GREEN,marker='s',s=16,zorder=2)
         path=ROOT/'data/evidence/walking'/f'{h.NODE_ID}_{b.to_id}.json'
-        coords=np.array(json.loads(path.read_text())['routes'][0]['geometry']['coordinates']);rx,ry=xy(coords[:,0],coords[:,1])
+        coords=np.array(json.loads(path.read_text(encoding='utf-8'))['routes'][0]['geometry']['coordinates']);rx,ry=xy(coords[:,0],coords[:,1])
         ax.plot(rx,ry,color=ORANGE,lw=2.1,zorder=3)
         ex,ey=xy(b.to_lon,b.to_lat);ax.scatter([ex],[ey],color=GREEN,marker='s',s=45,zorder=4)
         ax.scatter([0],[0],marker='*',s=130,c=NAVY,zorder=5)
